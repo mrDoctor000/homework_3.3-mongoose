@@ -1,0 +1,25 @@
+{
+  "name": "homework_mongoose",
+  "version": "1.0.0",
+  "description": "homework_3.3",
+  "main": "api.js",
+  "dependencies": {
+    "mongodb": "^2.2.31",
+    "express": "^4.15.5",
+    "mongoose": "^4.11.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrDoctor000/homework_3.3-mongoose.git"
+  },
+  "author": "Ponomarev E.A.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrDoctor000/homework_3.3-mongoose/issues"
+  },
+  "homepage": "https://github.com/mrDoctor000/homework_3.3-mongoose#readme"
+}
